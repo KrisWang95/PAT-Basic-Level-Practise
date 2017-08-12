@@ -14,4 +14,207 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1001.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1002.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1003.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1004.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1005.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1006.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1007.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1008.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1009.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1010.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1011.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1013.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1014.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1015.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1016.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1017.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1018.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1019.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1020.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1021.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1023.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1026.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1027.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1029.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1032.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1033.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1038.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1039.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1040.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1042.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1044.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1045.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1049.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1050.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1051.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1052.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1053.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1054.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1055.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1056.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1057.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1058.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1059.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1060.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1061.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1062.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1063.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1064.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1065.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1066.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1067.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
