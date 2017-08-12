@@ -18,6 +18,75 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1001.c" />
+    <ClCompile Include="1002.c" />
+    <ClCompile Include="1003.c" />
+    <ClCompile Include="1004.c" />
+    <ClCompile Include="1005.c" />
+    <ClCompile Include="1006.c" />
+    <ClCompile Include="1007.c" />
+    <ClCompile Include="1008.c" />
+    <ClCompile Include="1009.c" />
+    <ClCompile Include="1010.c" />
+    <ClCompile Include="1011.c" />
+    <ClCompile Include="1012.cpp" />
+    <ClCompile Include="1013.cpp" />
+    <ClCompile Include="1014.cpp" />
+    <ClCompile Include="1015.cpp" />
+    <ClCompile Include="1016.cpp" />
+    <ClCompile Include="1017.cpp" />
+    <ClCompile Include="1018.cpp" />
+    <ClCompile Include="1019.cpp" />
+    <ClCompile Include="1020.cpp" />
+    <ClCompile Include="1021.cpp" />
+    <ClCompile Include="1022.cpp" />
+    <ClCompile Include="1023.cpp" />
+    <ClCompile Include="1024.cpp" />
+    <ClCompile Include="1025.cpp" />
+    <ClCompile Include="1026.cpp" />
+    <ClCompile Include="1027.cpp" />
+    <ClCompile Include="1028.cpp" />
+    <ClCompile Include="1029.cpp" />
+    <ClCompile Include="1030.cpp" />
+    <ClCompile Include="1031.cpp" />
+    <ClCompile Include="1032.cpp" />
+    <ClCompile Include="1033.cpp" />
+    <ClCompile Include="1034.cpp" />
+    <ClCompile Include="1035.cpp" />
+    <ClCompile Include="1036.cpp" />
+    <ClCompile Include="1037.cpp" />
+    <ClCompile Include="1038.cpp" />
+    <ClCompile Include="1039.cpp" />
+    <ClCompile Include="1040.cpp" />
+    <ClCompile Include="1041.cpp" />
+    <ClCompile Include="1042.cpp" />
+    <ClCompile Include="1043.cpp" />
+    <ClCompile Include="1044.cpp" />
+    <ClCompile Include="1045.cpp" />
+    <ClCompile Include="1046.cpp" />
+    <ClCompile Include="1047.cpp" />
+    <ClCompile Include="1048.cpp" />
+    <ClCompile Include="1049.cpp" />
+    <ClCompile Include="1050.cpp" />
+    <ClCompile Include="1051.cpp" />
+    <ClCompile Include="1052.cpp" />
+    <ClCompile Include="1053.cpp" />
+    <ClCompile Include="1054.cpp" />
+    <ClCompile Include="1055.cpp" />
+    <ClCompile Include="1056.cpp" />
+    <ClCompile Include="1057.cpp" />
+    <ClCompile Include="1058.cpp" />
+    <ClCompile Include="1059.cpp" />
+    <ClCompile Include="1060.cpp" />
+    <ClCompile Include="1061.cpp" />
+    <ClCompile Include="1062.cpp" />
+    <ClCompile Include="1063.cpp" />
+    <ClCompile Include="1064.cpp" />
+    <ClCompile Include="1065.cpp" />
+    <ClCompile Include="1066.cpp" />
+    <ClCompile Include="1067.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{014A49B3-586C-4CF4-93D1-C23F5D7D1CA7}</ProjectGuid>
     <RootNamespace>PATBasicLevelPractise</RootNamespace>
@@ -109,76 +178,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="1068.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1001.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1002.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1003.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1004.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1005.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1006.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1007.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1008.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1009.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1010.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1011.c" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1012.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1013.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1014.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1015.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1016.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1017.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1018.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1019.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1020.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1021.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1022.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1023.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1024.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1025.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1026.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1027.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1028.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1029.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1030.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1031.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1032.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1033.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1034.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1035.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1036.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1037.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1038.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1039.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1040.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1041.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1042.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1043.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1044.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1045.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1046.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1047.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1048.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1049.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1050.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1051.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1052.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1053.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1054.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1055.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1056.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1057.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1058.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1059.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1060.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1061.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1062.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1063.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1064.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1065.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1066.cpp" />
-    <ClCompile Include="G:\Document\PAT (Basic Level) Practise\1067.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
